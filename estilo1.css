@@ -1,0 +1,24 @@
+.uno a{
+text-decoration:none;
+display:block;
+
+width:200px;
+height:50px;
+padding-top:18px;
+margin:auto;
+border:1px solid #288190;
+
+background-color: #288190;
+/*color:#fff;
+*/
+
+box-shadow: -3px 3px 10px #000;
+
+transition:2s;
+
+}
+
+.uno a:hover{
+background-color: #F92672;
+color:#288190;
+}
